@@ -1,5 +1,8 @@
 # MP3 Chapter Splitter
 
+![image](https://github.com/msdousti/mp3-chapter-splitter/assets/3616518/68715220-358d-4c43-8489-f2e323e43344)
+
+
 ## Overview
 
 This Python script automates the process of extracting individual chapters from an MP3 file.
